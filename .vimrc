@@ -34,9 +34,6 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
 
-" close autocomplete docs when done
-autocmd CompleteDone * pclose
-
 " set colorscheme
 set t_Co=256
 colorscheme badwolf
