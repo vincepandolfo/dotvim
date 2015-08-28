@@ -28,17 +28,11 @@ let g:syntastic_html_tidy_ignore_errors=[" proprietary attribute " ,"trimming em
 " jj is easier to write and you're probably not going to write it ever
 inoremap jj <ESC>
 
-" to add line between brackets
-imap <C-c> <CR><Esc>O
-
 " easy window switching
 nnoremap <C-h> <C-w>h
 nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
-
-" close autocomplete docs when done
-autocmd CompleteDone * pclose
 
 " set colorscheme
 set t_Co=256

@@ -1,5 +1,5 @@
 # dotvim
 
-Clone the repository in your `~/.vim` folder and run 
+Clone the repository in your home folder and run 
 `./install.sh`
-inside it
+inside it (remember to rename the folder to .vim)
