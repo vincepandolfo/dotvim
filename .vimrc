@@ -66,7 +66,7 @@ set incsearch
 set hlsearch
 
 " folding method
-set fdm=syntax
+set fdm=indent
 
 " leader is comma
 let mapleader=","
