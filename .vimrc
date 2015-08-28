@@ -71,6 +71,9 @@ set showmatch
 set incsearch
 set hlsearch
 
+" folding method
+set fdm=syntax
+
 " leader is comma
 let mapleader=","
 
