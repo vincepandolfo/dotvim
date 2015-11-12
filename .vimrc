@@ -40,8 +40,8 @@ colorscheme badwolf
 
 " tab options
 set expandtab
-set softtabstop=4
-set shiftwidth=4
+set softtabstop=2
+set shiftwidth=2
 
 " show line numbers
 set number
