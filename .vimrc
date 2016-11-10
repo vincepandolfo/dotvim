@@ -46,8 +46,8 @@ colorscheme badwolf
 
 " tab options
 set expandtab
-set softtabstop=4
-set shiftwidth=4
+set softtabstop=2
+set shiftwidth=2
 
 " show line numbers
 set number
@@ -62,7 +62,7 @@ set showcmd
 set wildmenu
 
 " redraw only when needed
-set lazyredraw
+" set lazyredraw
 
 " enable matching
 set showmatch
