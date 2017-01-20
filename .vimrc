@@ -39,6 +39,7 @@ let g:syntastic_html_tidy_ignore_errors=[" proprietary attribute " ,"trimming em
 
 " YCM settings
 let g:ycm_autoclose_preview_window_after_completion=1
+let g:ycm_python_binary_path='python3'
 
 " Eclim settings
 let g:EclimCompletionMethod='omnifunc'
