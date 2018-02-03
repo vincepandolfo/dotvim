@@ -1,8 +1,8 @@
 set nocompatible
-
-" load pathogen
 filetype off
+
 set rtp+=~/.vim/bundle/Vundle.vim
+set shell=/bin/bash
 call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
@@ -16,6 +16,7 @@ Plugin 'bling/vim-airline'
 Plugin 'tpope/vim-fugitive'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-sensible'
+Plugin 'elixir-editors/vim-elixir'
 
 call vundle#end()
 
